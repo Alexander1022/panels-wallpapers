@@ -7,7 +7,7 @@ Reversed-engineered wallpapers app on C, because we don't **love** paid AI-gener
 
 1. Open your terminal
 2. ```gcc wallpapers.c -lcurl```
-3. ./a.out
+3. ```./a.out```
 4. Enjoy these priceless wallpapers
 
 ## FAQ (Copy-paste from mkbsd)
